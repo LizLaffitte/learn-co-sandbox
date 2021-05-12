@@ -1,0 +1,2 @@
+def hamburger(toppings)
+end 
